@@ -713,22 +713,17 @@ video {
 
 .text-darkGrayishBlue {
   --tw-text-opacity: 1;
-  color: hsl(227 12% 61 / var(--tw-text-opacity));
+  color: hsl(227 12% 61% / var(--tw-text-opacity));
 }
 
 .hover\:bg-brightRedLight:hover {
   --tw-bg-opacity: 1;
-  background-color: hsl(12 88% 69 / var(--tw-bg-opacity));
-}
-
-.hover\:bg-darkGrayishBlue:hover {
-  --tw-bg-opacity: 1;
-  background-color: hsl(227 12% 61 / var(--tw-bg-opacity));
+  background-color: hsl(12 88% 69% / var(--tw-bg-opacity));
 }
 
 .hover\:text-darkGrayishBlue:hover {
   --tw-text-opacity: 1;
-  color: hsl(227 12% 61 / var(--tw-text-opacity));
+  color: hsl(227 12% 61% / var(--tw-text-opacity));
 }
 
 @media (min-width: 768px) {
