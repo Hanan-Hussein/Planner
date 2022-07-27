@@ -902,6 +902,11 @@ video {
   color: hsl(227 12% 61% / var(--tw-text-opacity));
 }
 
+.hover\:text-brightRed:hover {
+  --tw-text-opacity: 1;
+  color: hsl(12 88% 59% / var(--tw-text-opacity));
+}
+
 @media (min-width: 768px) {
   .md\:my-12 {
     margin-top: 3rem;
